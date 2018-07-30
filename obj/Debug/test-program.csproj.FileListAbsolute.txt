@@ -1,0 +1,10 @@
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\bin\Debug\test-program.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\bin\Debug\test-program.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\bin\Debug\test-program.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test-program.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test_program.Form1.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test_program.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test-program.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test-program.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test-program.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\test-program\obj\Debug\test-program.pdb
